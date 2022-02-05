@@ -1,5 +1,6 @@
 # Movie-Recommendation-
 Movie recommendation using AI and Machine Learning
+https://gallery.cortanaintelligence.com/Experiment/Recommender-Movie-recommendation-64
 
 # Movie Recommendation pull model
 ![image](https://user-images.githubusercontent.com/93976848/152632900-80947244-fa7d-465f-9b97-3aad7393e838.png)
@@ -29,7 +30,7 @@ Movie recommendation using AI and Machine Learning
 ![image](https://user-images.githubusercontent.com/93976848/152633299-0ccbf7ba-481d-474c-8b7d-77f7e9bc5772.png)
 
 
-
+Gallery Link : https://gallery.cortanaintelligence.com/Experiment/Recommender-Movie-recommendation-64
 
 
 
